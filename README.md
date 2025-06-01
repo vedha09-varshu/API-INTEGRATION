@@ -43,3 +43,8 @@ Enter a city name in the input field.
 Click “Get Weather” to view current weather details.
 
 This project showcases how to connect a frontend application with a public API and present data in a user-friendly and visually appealing way.
+
+*OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/734ce94d-28ce-498e-9d9c-1d6e5f93efc6)
+![Image](https://github.com/user-attachments/assets/cd5e8ec9-8979-4a94-b291-c71f71108f68)
